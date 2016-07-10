@@ -1,0 +1,10 @@
+C:\Users\Server-Empresa\Desktop\Ensayos C# y Sql Server\Page1\Page1\bin\Page1.dll
+C:\Users\Server-Empresa\Desktop\Ensayos C# y Sql Server\Page1\Page1\bin\Page1.pdb
+C:\Users\Server-Empresa\Desktop\Ensayos C# y Sql Server\Page1\Page1\obj\Debug\Page1.csprojResolveAssemblyReference.cache
+C:\Users\Server-Empresa\Desktop\Ensayos C# y Sql Server\Page1\Page1\obj\Debug\Page1.dll
+C:\Users\Server-Empresa\Desktop\Ensayos C# y Sql Server\Page1\Page1\obj\Debug\Page1.pdb
+C:\Users\Server-Empresa\Desktop\Proyecto Virtual - Office\Page1\Page1\bin\Page1.dll
+C:\Users\Server-Empresa\Desktop\Proyecto Virtual - Office\Page1\Page1\bin\Page1.pdb
+C:\Users\Server-Empresa\Desktop\Proyecto Virtual - Office\Page1\Page1\obj\Debug\Page1.csprojResolveAssemblyReference.cache
+C:\Users\Server-Empresa\Desktop\Proyecto Virtual - Office\Page1\Page1\obj\Debug\Page1.dll
+C:\Users\Server-Empresa\Desktop\Proyecto Virtual - Office\Page1\Page1\obj\Debug\Page1.pdb
